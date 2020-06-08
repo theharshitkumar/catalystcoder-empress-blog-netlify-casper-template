@@ -1,11 +1,11 @@
 {
-  "name": "empress-blog-casper",
+  "name": "Catalyst Coder",
   "version": "0.0.0",
   "private": true,
-  "description": "Small description for empress-blog-casper goes here",
+  "description": "Design with love",
   "repository": "",
   "license": "MIT",
-  "author": "",
+  "author": "Harshit Kumar",
   "directories": {
     "doc": "doc",
     "test": "tests"
